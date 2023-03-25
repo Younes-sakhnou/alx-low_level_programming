@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "main.h"
-
 /*
  * mul - multiply two int
  * @a: multiply a by b
