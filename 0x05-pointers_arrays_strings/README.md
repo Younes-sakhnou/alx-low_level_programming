@@ -1,1 +1,1 @@
-0x05. C - Pointers, arrays and strings
+Programming Fundamentals: Pointers, Arrays, Strings and Variable Scope
