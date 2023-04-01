@@ -1,1 +1,1 @@
-0x06. C - More pointers, arrays and strings
+Programming Guidelines and Requirements for C Projects
