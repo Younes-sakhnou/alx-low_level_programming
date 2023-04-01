@@ -1,1 +1,1 @@
-0x03. C - Debugging
+Debugging Fundamentals: Methods and Techniques for Manual Debugging and Error Message Interpretation
