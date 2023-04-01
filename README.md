@@ -1,1 +1,1 @@
-0x02-functions_nested_loops
+This repo is my absolute beginning with the C programming language
