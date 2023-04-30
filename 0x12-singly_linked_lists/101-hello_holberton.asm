@@ -1,5 +1,5 @@
 section .data
-message db 'Hello, world!', 0
+message db 'Hello, Holberton', 0
 
 section .text
 global main
