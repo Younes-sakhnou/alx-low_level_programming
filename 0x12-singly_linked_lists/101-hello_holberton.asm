@@ -1,22 +1,15 @@
-section .data
-message db 'Hello, Holberton', 0
+SECTION .data
+msg:	db "Hello, Holberton", 0
+fmt:	db "%s", 10, 0
 
-section .text
+SECTION .text
+extern printf
 global main
-
 main:
-
-push ebp
-mov ebp, esp
-
-
-mov ebx, message
-
-
-push ebx
+mov esi, msg
+mov edi, fmt
+mov eax, 0
 call printf
-add esp, 4
 
-
-pop ebp
+mov eax, 0
 ret
