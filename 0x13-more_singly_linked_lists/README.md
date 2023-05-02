@@ -1,0 +1,1 @@
+This project is an implementation of a singly linked list data structure in C language. By studying this project, you will learn how to create and manipulate linked lists in C, which are commonly used in computer science to efficiently store and manage collections of data.
