@@ -2,6 +2,7 @@
 #define LISTS_H
 
 #include <stdio.h>
+#include <stdlib.h>
 
 
 /**
